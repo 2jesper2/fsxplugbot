@@ -47,9 +47,9 @@ Booleans are either 'true' or 'false', without the '.
 - "opLink": an optional link to a list of OverPlayed songs, leave it null to leave it disabled, type: string
 - "rulesLink": an optional link to a list of rules, leave it null to leave it disabled, type: string
 - "themeLink": an optional link to the room's theme and allowed genres, leave it null to leave it disabled, type: string
-- "fbLink": an optional link to a Facebook page, leave it null to leave it disabled, type: string,
+- "fbLink": https://www.facebook.com/pages/FSX-Flight-Simulator-Clan-Nederland/801381399897587?ref=bookmarks, type: string,
 - "youtubeLink": an optional link to a youtube, leave it null to leave it disabled, type: string,
-- "website": an optional link to a website, leave it null to leave it disabled, type: string,
+- "website": http://fsxclan.nl/, type: string,
 - "intervalMessages": an array of messages displayed every X songs, leave it empty to not have any default messages, format:
 	`["message 1", "message 2", "message 3"]`
 - "messageInterval": the interval X for the standard messages, type: a number
